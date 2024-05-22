@@ -2,7 +2,7 @@
 sudo apt update && sudo apt upgrade -y
 
 # Install base lib
-sudo apt install nano curl
+sudo apt install nano curl -y
 
 # Docker install
 # Add Docker's official GPG key:
